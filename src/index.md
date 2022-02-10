@@ -3,20 +3,24 @@ layout: layouts/home.njk
 ---
 
 <div class="illo-container">
-  <img src="" class="illustration" style="align: right" alt="Eleventy!">
 </div>
 
 # The Immersive Classroom
 
-Welcome to the Glitch [Eleventy](https://www.11ty.dev/) starter, where you can create a blog or landing page that generates a static site.
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
 
-Each of the initial blog posts has special tips to help you get the most out of your new site–work through them all, learning how to add posts and customize how your site builds along the way. Once you've mastered the basics, you can delete all these posts and continue writing your own!
 
 ### Projects
 <ul>
-{% for project in collections.projects %}
-  - <li>[{{ page.data.title }}]({{ page.url}})</li>
-  {%- endfor %}
+{%- for project in collections.projects -%}
+  <li>[{{ page.data.title }}]({{ page.url}})</li>
+  {%- endfor -%}
 </ul>
 
+<ul>
+      {%- for post in collections.posts -%}
+        <li{% if page.url == post.url %} aria-current="page"{% endif %}>{{ post.data.page.date | htmlDateString }} — <a href='{{ post.url }}'>{{ post.data.title }}</a></li>
+      {%- endfor -%}
+      <li><a href="/posts">View all posts</a></li>
+</ul>
 

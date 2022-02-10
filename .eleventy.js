@@ -9,11 +9,7 @@ const pluginSEO = require("eleventy-plugin-seo");
 */
 
 module.exports = function(eleventyConfig) {
- const embedEverything = require("eleventy-plugin-embed-everything");
-
-module.exports = function(eleventyConfig) {
-  eleventyConfig.addPlugin(embedEverything);
-};
+ 
   
   
   
@@ -86,4 +82,12 @@ module.exports = function(eleventyConfig) {
       output: "build"
     }
   };
+};
+
+
+//add embed multimedia
+const embedEverything = require("eleventy-plugin-embed-everything");
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPlugin(embedEverything);
 };
