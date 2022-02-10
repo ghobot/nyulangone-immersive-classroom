@@ -1,5 +1,6 @@
 dependencies:
   eleventy-plugin-seo: 0.5.2
+  get-youtube-id: 1.0.1
   luxon: 2.3.0
 devDependencies:
   '@11ty/eleventy': 1.0.0
@@ -931,6 +932,10 @@ packages:
     dev: true
     resolution:
       integrity: sha512-kWZrnVM42QCiEA2Ig1bG8zjoIMOgxWwYCEeNdwY6Tv/cOSeGpcoX4pXHfKUxNKVoArnrEr2e9srnAxxGIraS9Q==
+  /get-youtube-id/1.0.1:
+    dev: false
+    resolution:
+      integrity: sha512-5yidLzoLXbtw82a/Wb7LrajkGn29BM6JuLWeHyNfzOGp1weGyW4+7eMz6cP23+etqj27VlOFtq8fFFDMLq/FXQ==
   /glob-parent/5.1.2:
     dependencies:
       is-glob: 4.0.3
@@ -2350,4 +2355,5 @@ shrinkwrapVersion: 3
 specifiers:
   '@11ty/eleventy': ^1.0.0
   eleventy-plugin-seo: 0.5.2
+  get-youtube-id: ^1.0.1
   luxon: 2.3.0
