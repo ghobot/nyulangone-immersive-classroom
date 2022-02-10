@@ -2,19 +2,16 @@
 layout: layouts/home.njk
 ---
 
-<div class="illo-container">
-</div>
 
 # The Immersive Classroom
 
-https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://vimeo.com/642006159
 
-
-### Projects
+## Projects
 <ul>
 {%- for project in collections.projects -%}
   <li>[{{ page.data.title }}]({{ page.url}})</li>
-  {%- endfor -%}
+{%- endfor -%}
 </ul>
 
 <ul>

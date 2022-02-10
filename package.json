@@ -3,18 +3,16 @@
   "version": "0.1.0",
   "description": "The Immersive Classroom Documented",
   "scripts": {
-    "start": "eleventy --incremental --serve",
+    "start": "eleventy --serve",
     "build": "NODE_ENV=production eleventy"
   },
   "dependencies": {
-    "eleventy-plugin-embed-everything": "^1.14.0",
     "eleventy-plugin-seo": "0.5.2",
-    "get-youtube-id": "^1.0.1",
-    "luxon": "2.3.0"
+    "luxon": "2.3.0",
+    "get-youtube-id": "^1.0.1"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0",
-    "eleventy-navigation-bootstrap": "^0.1.2"
+    "@11ty/eleventy": "^1.0.0"
   },
   "engines": {
     "node": "12"
