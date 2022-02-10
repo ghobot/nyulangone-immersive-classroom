@@ -12,4 +12,11 @@ Welcome to the Glitch [Eleventy](https://www.11ty.dev/) starter, where you can c
 
 Each of the initial blog posts has special tips to help you get the most out of your new site–work through them all, learning how to add posts and customize how your site builds along the way. Once you've mastered the basics, you can delete all these posts and continue writing your own!
 
-### Posts
+### Projects
+<ul>
+{% for project in collections.projects %}
+  - <li>[{{ page.data.title }}]({{ page.url}})</li>
+  {%- endfor %}
+</ul>
+
+
