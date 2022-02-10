@@ -4,7 +4,7 @@ description: Students navigate a difficult area in the brain in a headset
 date_deployed: 2021-09-01
 date: 2022-02-09
 tags:
-  - project
+  - projects
 layout: layouts/project.njk
 ---
 
