@@ -7,12 +7,14 @@
     "build": "NODE_ENV=production eleventy"
   },
   "dependencies": {
+    "eleventy-plugin-embed-everything": "^1.14.0",
     "eleventy-plugin-seo": "0.5.2",
-    "luxon": "2.3.0",
-    "get-youtube-id": "^1.0.1"
+    "get-youtube-id": "^1.0.1",
+    "luxon": "2.3.0"
   },
   "devDependencies": {
-    "@11ty/eleventy": "^1.0.0"
+    "@11ty/eleventy": "^1.0.0",
+    "eleventy-navigation-bootstrap": "^0.1.2"
   },
   "engines": {
     "node": "12"
