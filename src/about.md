@@ -4,8 +4,8 @@ layout: layouts/page.njk
 
 ## About this site
 
-Bios
+## About the Team
 
-##Kristen Ramirez
+### Kristen Ramirez
 
-##Greg Dorsainville
+### Greg Dorsainville
