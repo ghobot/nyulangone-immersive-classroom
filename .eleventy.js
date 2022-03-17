@@ -1,7 +1,7 @@
 const { DateTime } = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
 //add embed multimedia
-const embedEverything = require("eleventy-plugin-embed-everything");
+// const embedEverything = require("eleventy-plugin-embed-everything");
 
 /**
 * This is the JavaScript code that determines the config for your Eleventy site
@@ -13,7 +13,7 @@ const embedEverything = require("eleventy-plugin-embed-everything");
 module.exports = function(eleventyConfig) {
  
   
-  eleventyConfig.addPlugin(embedEverything);
+  // eleventyConfig.addPlugin(embedEverything);
 
   
   eleventyConfig.setTemplateFormats([

@@ -1,5 +1,5 @@
 ---
-layout: layouts/home2.njk
+layout: layouts/home.njk
 ---
 
 # The Immersive Classroom
