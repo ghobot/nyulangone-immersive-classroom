@@ -1,9 +1,8 @@
 ---
-layout: layouts/hubs_base.njk
+layout: layouts/hubs_page.njk
 title: Methods
 ---
 
-# Methods
 
 The Mozilla Hubs platform was chosen for in-house produced XR educational activities because of its accessibility and ease of customization and deployment. However, 3D assets needed to first be developed in other programs and imported.
 
