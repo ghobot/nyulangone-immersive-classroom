@@ -1,5 +1,6 @@
 ---
-layout: layouts/base.njk
+layout: layouts/hubs_base.njk
+title: Methods
 ---
 
 # Methods

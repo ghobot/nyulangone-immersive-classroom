@@ -1,5 +1,5 @@
 ---
-layout: layouts/page.njk
+layout: layouts/hubs_base.njk
 ---
 
 ## About

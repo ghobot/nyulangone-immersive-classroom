@@ -4,8 +4,8 @@ description: Students navigate a difficult area in the brain in a headset
 date_deployed: 2021-09-01
 date: 2022-02-09
 tags:
-  - projects
-layout: layouts/project.njk
+  - experiences
+layout: layouts/experience.njk
 ---
 
 The body of your posts will be in Markdown. With Glitch, you can edit Markdown right in the editor, and the preview will update as you type. While you work you can switch between editing Markdown and seeing a preview of your formatted text by toggling the __Markdown__ button just above the editor window.
