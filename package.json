@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "The Immersive Classroom Documented",
   "scripts": {
-    "start": "eleventy --serve",
+    "start": "npx eleventy --serve",
     "build": "NODE_ENV=production eleventy"
   },
   "dependencies": {

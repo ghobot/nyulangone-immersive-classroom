@@ -1,5 +1,5 @@
 ---
-layout: layouts/use_cases.njk
+layout: layouts/base.njk
 ---
 
 # Use Cases
