@@ -1,6 +1,7 @@
 ---
-layout: layouts/base.njk
+layout: layouts/hubs.njk
 ---
+<!-- carousel -->
 
 ## Hubs Documentation
 
