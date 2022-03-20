@@ -1,10 +1,12 @@
 ---
 layout: layouts/hubs_page.njk
 title: Experiences
+active: experiences 
 ---
 
   
-## Heart 1.0
+
+## Heart 1.0 
 
 Learners and instructors in a multi-user learning event navigate around a massive heart, investigating the outside structures and inner chambers via the desktop.
 
