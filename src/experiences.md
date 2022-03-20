@@ -7,7 +7,10 @@ title: Experiences
 
 ## Skull 
   
-##  Heart 1.0
+## Heart 1.0
+
 ## Gut Escape
-  - PTFossa VR
-  - Heart VR
+
+## PTFossa VR
+
+## Heart VR
