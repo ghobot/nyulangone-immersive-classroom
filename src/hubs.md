@@ -6,14 +6,4 @@ title: Hubs Documentation
 
 ## Educating with Hubs
 
-- Methods
-  - Model creation
-  - Model formatting
-  - Scene Creation
-  - Deployment
-- Experiences
-  - Skull
-  - Heart 1.0
-  - Gut Escape
-  - PTFossa VR
-  - Heart VR
+
