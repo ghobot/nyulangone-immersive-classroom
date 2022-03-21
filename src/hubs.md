@@ -4,7 +4,7 @@ title: Hubs Documentation
 ---
 <!-- carousel -->
 
-## Hubs Documentation
+## Educating with Hubs
 
 - Methods
   - Model creation
