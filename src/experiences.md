@@ -5,21 +5,8 @@ active: experiences
 ---
 
   
-
-## Heart 1.0 
-
-
-
-
-## GI Escape Room
-
-
-
-
-## Pteryopalantine Fossa 
-
-
-
-
-## Heart 2.0
-
+<ul>
+{%- for experience in collections.experience -%}
+  <li><h2>{{ post.data.title }}</h2></li>
+{%- endfor -%}
+</ul>
