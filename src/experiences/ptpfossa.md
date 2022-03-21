@@ -1,10 +1,8 @@
 ---
 title: Pterygopalantine Fossa Hubs VR Room
-description: Students navigate a difficult area in the brain in a headset
+description: "Individual learners in virtual reality headsets navigate the complex brain region of the pterygopalatine fossa."
 date_deployed: 2021-09-01
-date: 2022-02-09
-tags:
-  - experiences
+tags: experiences
 layout: layouts/experience.njk
 ---
 

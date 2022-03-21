@@ -13,12 +13,11 @@ Learners and instructors in a multi-user learning event navigate around a massiv
 
 ## GI Escape Room
 
-Teams of learners on the desktop navigate the gut by solving clinicaly relevent questions / clues to discover ways around the gastro-intestinal track.
+
 
 
 ## Pteryopalantine Fossa 
 
-Individual learners in virtual reality headsets navigate the complex brain region of the pterygopalatine fossa. 
 
 
 
