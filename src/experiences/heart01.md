@@ -1,5 +1,5 @@
 ---
-title: Pterygopalantine Fossa Hubs VR Room
+title: Heart - Desktop
 short_description: "Learners and instructors in a multi-user learning event navigate around a massive heart, investigating the outside structures and inner chambers via the desktop."
 date_deployed: 2021-09-01
 tags: experiences
