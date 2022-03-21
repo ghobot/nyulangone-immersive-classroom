@@ -3,6 +3,7 @@ title: Heart - Virtual Reality
 short_description: "Individual learners in virtual reality headsets navigate the internal chambers of the heart."
 date_deployed: 2021-09-01
 tags: experience
+slug: heart02
 layout: layouts/experience.njk
 ---
 

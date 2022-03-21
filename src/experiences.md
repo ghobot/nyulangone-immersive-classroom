@@ -7,6 +7,6 @@ active: experiences
   
 <ul>
 {%- for experience in collections.experience -%}
-  <li><h2>{{ post.data.title }}</h2></li>
+  <li><h3><a href="{{experience.data.slug}}">{{ experience.data.title }}</a></h3></li>
 {%- endfor -%}
 </ul>
