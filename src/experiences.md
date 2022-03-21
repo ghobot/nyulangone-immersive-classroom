@@ -8,7 +8,7 @@ active: experiences
 
 ## Heart 1.0 
 
-Learners and instructors in a multi-user learning event navigate around a massive heart, investigating the outside structures and inner chambers via the desktop.
+
 
 
 ## GI Escape Room
@@ -23,4 +23,3 @@ Learners and instructors in a multi-user learning event navigate around a massiv
 
 ## Heart 2.0
 
-Individual learners in virtual reality headsets navigate the internal chambers of the heart. 
