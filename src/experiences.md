@@ -3,9 +3,6 @@ layout: layouts/hubs_page.njk
 title: Experiences
 active: experiences 
 ---
-
-  
-<ul class="icon-list">
 {%- for experience in collections.experience -%}
 
   
@@ -24,4 +21,3 @@ active: experiences
         </div>
       </div>  
 {%- endfor -%}
-</ul>
