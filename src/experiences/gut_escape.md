@@ -4,6 +4,7 @@ short_description: "Teams of learners on the desktop navigate the gut by solving
 date_deployed: 2021-05-01
 tags: experience
 slug: gut_escape
+
 layout: layouts/experience.njk
 ---
 
