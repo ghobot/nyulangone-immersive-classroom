@@ -1,9 +1,10 @@
 ---
 title: Heart - Desktop
 short_description: "Learners and instructors in a multi-user learning event navigate around a massive heart, investigating the outside structures and inner chambers via the desktop."
-date_deployed: 2021-09-01
+date_deployed: "2021-09-01"
 tags: experience
 slug: heart01
+thumbnail: "https://place-hold.it/200x200/#555/white"
 layout: layouts/experience.njk
 ---
 ```
