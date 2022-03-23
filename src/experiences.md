@@ -9,12 +9,12 @@ active: experiences
 {%- for experience in collections.experience -%}
 
   
-        <div class="col-md">
+        <div class="col-md-12">
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">           
-              <h3 class="mb-0">
+              <h5 class="mb-0 mt-0">
                 <a class="text-dark" href="{{ experience.data.slug }}">{{ experience.data.title }}</a>
-              </h3>
+              </h5>
               <div class="mb-1 text-muted">Deployed: {{ experience.data.date_deployed }}</div>
               <p class="card-text mb-auto"> {{ experience.data.short_description }}</p>
             </div>
