@@ -5,6 +5,7 @@ date_deployed: 2021-05-01
 tags: experience
 slug: gut_escape
 layout: layouts/experience.njk
+thumbnail: "https://place-hold.it/200x200/#555/white"
 ---
 
 ```

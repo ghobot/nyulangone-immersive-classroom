@@ -5,6 +5,7 @@ date_deployed: 2021-09-01
 tags: experience
 slug: heart02
 layout: layouts/experience.njk
+thumbnail: "https://place-hold.it/200x200/#555/white"
 ---
 
 
