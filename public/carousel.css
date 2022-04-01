@@ -31,10 +31,10 @@ body {
 .carousel-item > img {
   object-fit: cover;
   object-position: center;
-  top: -10%;
-  left: 0; 
-  height: 32rem;
-  width:auto;
+  height: 50vh;
+  
+}
+
 }
 
 

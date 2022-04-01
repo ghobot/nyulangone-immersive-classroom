@@ -31,11 +31,14 @@
         }
       }
 
-      #carouselExampleSlidesOnly .carousel-item > img {
-        position: absolute;
-        left: 0;
-        min-width: 100%;
-        height: auto;
+#hubsCarousel .carousel-item:before .dim {
+  content: "";
+  background-image: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.5));
+  display: block;
+  position: absolute;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
       }
     </style>
 
