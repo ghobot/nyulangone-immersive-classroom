@@ -18,27 +18,23 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 
 ## The Team
 
-<div class="row mb-2">
 {%- for profile in collections.profile -%}  
-        <div class="col-md-12">
-          <div class="card flex-md-row mb-4 box-shadow h-md-250">
-            <div class="card-body d-flex flex-column align-items-start">           
-            <img class="card-img-left flex-auto  d-md-block img-thumbnail  img-fluid" width="400" alt="{{ profile.data.name }}"  src="{{ profile.data.thumbnail}}" data-holder-rendered="true">
-              <h3 class="mt-0">
-                {{ profile.data.name }}, {{ profile.data.title }}
-              </h3>
-              <p>
-                {{ profile.data.affiliation }}
-              </p>
-              <p class="card-text mb-auto"> {{ profile.templateContent }} </p>
-              <p>
-               <a type="button" class="btn btn-primary" href="mailto:{{ profile.data.contact }}">Contact</a> 
-              </p> 
-            </div>      
-          </div>
-        </div>       
+  <div class="card mb-3" style="">
+  <div class="row g-0">
+    <div class="col-md-4">
+      <img src="..." class="img-fluid rounded-start" alt="...">
+    </div>
+    <div class="col-md-8">
+      <div class="card-body">
+        <h5 class="card-title"> {{ profile.data.name }}</h5>
+        <p class="card-text">{{ profile.data.templateContent }}</p>
+        <p class="card-text"><small class="text-muted">Last updated 3 mins ago</small></p>
+      </div>
+    </div>
+  </div>
+</div>
 {%- endfor -%}
-</div> 
+ 
 
 
 
