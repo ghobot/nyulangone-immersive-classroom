@@ -1,6 +1,7 @@
 ---
 layout: layouts/hubs_page.njk
 title: About
+
 ---
 
 
@@ -12,32 +13,28 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 
 
 ## The Team
-   <div class="row mb-2">
+
+<div class="row mb-2">
 {%- for profile in collections.profile -%}
-
-
-{%- for experience in collections.experience -%}
 
   
         <div class="col-md-12">
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">           
               <h2 class="mt-0">
-                <a class="text-dark" href="{{ experience.url }}">{{ experience.data.title }}</a>
+                {{ profile.name }} {{ profile.data.title }}
               </h2>
-              <p class="card-text mb-auto"> {{ experience.data.short_description }}</p>
+              <p class="card-text mb-auto"> {{ profile.data.content}} </p>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block"  alt="Thumbnail [200]"  src="{{ experience.data.thumbnail }}" data-holder-rendered="true">
+            <img class="card-img-right flex-auto d-none d-md-block"  alt="Thumbnail [200]"  src="{{ profile.data.thumbnail }}" data-holder-rendered="true">
           </div>
         </div>
        
 {%- endfor -%}
+
+
 </div> 
 
-
-
-
-{%- endfor -%}
 
 
 ## Additional Collaborators
