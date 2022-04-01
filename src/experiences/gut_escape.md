@@ -8,9 +8,7 @@ hero_video: ""
 thumbnail: "https://place-hold.it/200x200/#555/white"
 ---
 
-```
-Video / carousel
-```
+
 ## Objectives
 
 ### Learning:

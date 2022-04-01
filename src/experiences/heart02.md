@@ -9,11 +9,6 @@ thumbnail: "https://place-hold.it/200x200/#555/white"
 ---
 
 
-<!-- 
-video / carousel 
--->
-
-
 
 ## Objectives
 
