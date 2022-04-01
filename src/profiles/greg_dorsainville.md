@@ -5,6 +5,7 @@ affilation: "NYU Langone Health Grossman School of Medicine"
 role: ""
 projects: ""
 contact: "greg.dorsainville@nyulangone.org"
+tags: profile
 thumbnail: "https://place-hold.it/200x200/#555/white"
 ---
 

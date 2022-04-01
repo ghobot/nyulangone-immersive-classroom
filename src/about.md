@@ -15,27 +15,22 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 ## The Team
 
 <div class="row mb-2">
-  
-      
-{%- for profile in collections.profile -%}
-
-  
-        <div class="col-md-12">
-      
+{%- for profile in collections.profile -%}  
+        <div class="col-md-10">
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">           
               <h2 class="mt-0">
-                {{ profile.data.name }} {{ profile.data.title }}
+                {{ profile.data.name }}, {{ profile.data.title }}
               </h2>
-              <p class="card-text mb-auto"> {{ profile.content}} </p>
+              <p class="card-text mb-auto"> {{ profile.data.content }} </p>
+              <p>
+               <a href="mailto:{{ profile.data.contact }}">Contact</a> 
+              </p>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block"  alt="Thumbnail [200]"  src="https://place-hold.it/200x200/#555/white" data-holder-rendered="true">
+            <img class="card-img-left flex-auto d-none d-md-block" width="400px" alt="Thumbnail [200]"  src="{{ profile.data.thumbnail}}" data-holder-rendered="true">
           </div>
-        </div>
-       
+        </div>       
 {%- endfor -%}
-
-
 </div> 
 
 
