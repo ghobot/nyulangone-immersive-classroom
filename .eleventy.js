@@ -77,6 +77,20 @@ module.exports = function(eleventyConfig) {
 
     return coll;
   });
+  
+eleventyConfig.addCollection("experiences", function(collection) {
+  const coll = collection.getFilteredByTag("experiences");
+
+  for(let i = 0; i < coll.length ; i++) {
+    const prevPost = coll[i-1];
+    const nextPost = coll[i + 1];
+
+    coll[i].data["prevExp"] = prevPost;
+    coll[i].data["nextExp"] = nextPost;
+  }
+
+  return coll;
+});  
 
   return {
     dir: {
