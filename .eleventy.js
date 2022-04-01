@@ -82,11 +82,11 @@ eleventyConfig.addCollection("experiences", function(collection) {
   const coll = collection.getFilteredByTag("experiences");
 
   for(let i = 0; i < coll.length ; i++) {
-    const prevPost = coll[i-1];
-    const nextPost = coll[i + 1];
+    const prevExp = coll[i-1];
+    const nextExp = coll[i + 1];
 
-    coll[i].data["prevExp"] = prevPost;
-    coll[i].data["nextExp"] = nextPost;
+    coll[i].data["prevExp"] = prevExp;
+    coll[i].data["nextExp"] = nextExp;
   }
 
   return coll;
