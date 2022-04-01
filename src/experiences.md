@@ -13,7 +13,7 @@ active: experiences
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">           
               <h2 class="mt-0">
-                <a class="text-dark" href="{{ experience.data.slug }}">{{ experience.data.title }}</a>
+                <a class="text-dark" href="{{ experience.url }}">{{ experience.data.title }}</a>
               </h2>
               <p class="card-text mb-auto"> {{ experience.data.short_description }}</p>
             </div>

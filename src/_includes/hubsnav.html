@@ -38,17 +38,17 @@
       <li class="nav-item">
         <a class="nav-link" href="/methods">Methods</a>
       </li>
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" href="/experiences" id="navbarDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-          Experiences
-        </a>
-        <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="experiences/heart01">Heart Desktop</a>
-          <a class="dropdown-item" href="experiences/heart02">Gut Escape Room</a>
-          <a class="dropdown-item" href="experiences/gut_escape">Ptp Fossa VR</a>
-          <a class="dropdown-item" href="experiences/ptpfossa">Heart VR</a>
-        </div>
-      </li>
+     <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Experiences
+          </a>
+          <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+            <li></li>
+            {%- for experience in collections.experience -%}
+            <li><a class="dropdown-item" href="{{ experience.url }}">{{ experience.data.title }}</a></li>
+            {%- endfor -%}
+          </ul>
+        </li>
     </ul>
   </div>
 </nav>
