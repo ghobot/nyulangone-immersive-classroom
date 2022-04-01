@@ -6,7 +6,5 @@ title: Hubs Documentation
 # Educating with Hubs
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam auctor malesuada eros. Vestibulum volutpat mi sit amet elit convallis, quis convallis ex feugiat. In blandit eros ut ipsum porta, non blandit enim pretium. Donec sit amet fermentum risus. Suspendisse sed hendrerit lacus. Phasellus id accumsan tellus, id semper quam. Maecenas ac vulputate arcu. Mauris posuere lectus eget odio faucibus luctus. Proin a hendrerit ex.
-
-In consectetur euismod ante, nec suscipit turpis. Pellentesque a enim vel arcu fermentum dignissim. Etiam venenatis faucibus lectus id tincidunt. Phasellus fringilla nibh ipsum, vel aliquam diam condimentum vitae. Mauris nec mauris quam. Curabitur consectetur lectus nisi, eu malesuada dolor pretium quis. Nunc vitae egestas erat.
+Hubs allows for the creation of custom 3D spaces, the incorporation of various assets, and the interaction among users within these spaces. This site explores how Hubs spaces created for NYU Grossman School of Medicine have been used in pre-clerkship education.
 
