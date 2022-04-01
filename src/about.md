@@ -12,21 +12,32 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 
 
 ## The Team
-
-### Kristen Ramirez
---photo--
-
-Prior to joining NYU Grossman School of Medicine, Kristen’s academic background is in human evolutionary biology, using 2D and 3D morphometric methods to research the evolution of joint morphology related to the acquisition of bipedality in the human lineage. Kristen joined the anatomy faculty at NYU Grossman School of Medicine in 2018 where she leverages digital technologies to supplement traditional anatomy teaching modalities including the creation of custom 3D models and VR experiences. 
-Contact: kristen.ramirez@nyulangone.org
+   <div class="row mb-2">
+{%- for profile in collections.profile -%}
 
 
+{%- for experience in collections.experience -%}
 
-### Greg Dorsainville
+  
+        <div class="col-md-12">
+          <div class="card flex-md-row mb-4 box-shadow h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">           
+              <h2 class="mt-0">
+                <a class="text-dark" href="{{ experience.url }}">{{ experience.data.title }}</a>
+              </h2>
+              <p class="card-text mb-auto"> {{ experience.data.short_description }}</p>
+            </div>
+            <img class="card-img-right flex-auto d-none d-md-block"  alt="Thumbnail [200]"  src="{{ experience.data.thumbnail }}" data-holder-rendered="true">
+          </div>
+        </div>
+       
+{%- endfor -%}
+</div> 
 
 
 
 
-Contact: greg.dorsainville@nyulangone.org
+{%- endfor -%}
 
 
 ## Additional Collaborators
