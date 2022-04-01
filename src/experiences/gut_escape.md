@@ -4,8 +4,8 @@ short_description: "Teams of learners on the desktop navigate the gut by solving
 date_deployed: "2021-05-01"
 tags: experience
 slug: gut_escape
+hero_video: ""
 thumbnail: "https://place-hold.it/200x200/#555/white"
-layout: layouts/experience.njk
 ---
 
 ```

@@ -4,8 +4,8 @@ short_description: "Individual learners in virtual reality headsets navigate the
 date_deployed: "2021-09-01"
 tags: experience
 slug: ptpfossa
+hero_video: ""
 thumbnail: "https://place-hold.it/200x200/#555/white"
-layout: layouts/experience.njk
 ---
 
 ## Objectives

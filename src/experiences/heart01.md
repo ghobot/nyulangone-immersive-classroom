@@ -6,7 +6,6 @@ tags: experience
 slug: heart01
 thumbnail: "https://place-hold.it/200x200/#555/white"
 hero_video: ""
-layout: layouts/experience.njk
 ---
 ```
 Video / carousel
