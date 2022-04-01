@@ -32,6 +32,8 @@ module.exports = function(eleventyConfig) {
   ]);
   eleventyConfig.addPassthroughCopy("public");
 
+
+
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
   Adds SEO settings to the top of all pages
