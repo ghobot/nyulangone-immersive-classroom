@@ -19,13 +19,16 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
         <div class="col-md-10">
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">           
-              <h2 class="mt-0">
+              <h3 class="mt-0">
                 {{ profile.data.name }}, {{ profile.data.title }}
-              </h2>
-              <p class="card-text mb-auto"> {{ profile.data.content }} </p>
+              </h3>
               <p>
-               <a href="mailto:{{ profile.data.contact }}">Contact</a> 
+                {{ profile.data.affiliation }}
               </p>
+              <p class="card-text mb-auto"> {{ profile.templateContent }} </p>
+              <p>
+               <a type="button" class="btn btn-primary" href="mailto:{{ profile.data.contact }}">Contact</a> 
+              </p> 
             </div>
             <img class="card-img-left flex-auto d-none d-md-block" width="400px" alt="Thumbnail [200]"  src="{{ profile.data.thumbnail}}" data-holder-rendered="true">
           </div>

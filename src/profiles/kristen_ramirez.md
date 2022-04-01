@@ -1,12 +1,12 @@
 ---
 name: Kristen Ramirez
 title: MPhil
-affilation: NYU Langone Health Grossman School of Medicine 
+affiliation: NYU Langone Health Grossman School of Medicine 
 role: ""
 projects: ""
 contact: "kristen.ramirez@nyulangone.org"
 tags: profile
-thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/Ramirez%20headshot%20GSOM%20cropped.png?v=1648848377114"
+thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/Ramirez%20headshot%20GSOM%20cropped.png?v=1648852815959"
 ---
 
 
