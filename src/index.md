@@ -1,48 +1,9 @@
 ---
-layout: layouts/home.njk
+layout: layouts/hubs_home.njk
+title: Hubs Documentation
 ---
+<!-- carousel -->
 
-# The Immersive Classroom
+# Educating with Hubs
 
-https://vimeo.com/642006159
-
-## Projects
-
-<ul>
-{%- for project in collections.projects -%}
-  <li>[{{ page.data.title }}]({{ page.url}})</li>
-{%- endfor -%}
-</ul>
-
-## Topics
-
-- 3D scanning
-- 3D Printing
-- Asset Generation
-  - Modeling
-    - Blender
-    - Gravity Sketch
-    - Adobe Medium
-  - Stores
-- Animation
-- AR
-  - Zappar
-  - Sketchfab
-  - Complete Anatomy
-- VR
-  - Mozilla hubs
-  - Unreal
-  - Aframe
-  - Sketchfab
-- Video
-- Audio
-  - Podcast
-
-## Experiences
-
-  <ul>
-{%- for experience in collections.experiences -%}
-  <li>[{{ page.data.title }}]({{ page.url}})</li>
-{%- endfor -%}
-</ul>
 
