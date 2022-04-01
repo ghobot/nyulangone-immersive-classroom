@@ -23,16 +23,16 @@ layout: layouts/hubs_base.njk
     
     <div class="controls">
     {# The previous and next post data is added in .eleventy.js #}
-    {% if prevPost.url %}
+    {% if prevExp.url %}
       <p>
         <strong>Previous experience</strong>: 
-        <a class="previous" href="{{ prevPost.url }}">{{ prevPost.data.title }}</a>
+        <a class="previous" href="{{ prevExp.url }}">{{ prevExp.data.title }}</a>
       </p>
     {% endif %}
-    {% if nextPost.url %}
+    {% if nextExp.url %}
       <p>
         <strong>Next experience</strong>: 
-        <a class="next" href="{{ nextPost.url }}">{{ nextPost.data.title }}</a>
+        <a class="next" href="{{ nextExp.url }}">{{ nextExp.data.title }}</a>
       </p>
     {% endif %}
     </div>
