@@ -31,6 +31,9 @@ module.exports = function(eleventyConfig) {
     "woff2"
   ]);
   eleventyConfig.addPassthroughCopy("public");
+  
+  eleventyConfig.addPassthroughCopy('src/_redirects');
+
 
 
 

@@ -43,7 +43,8 @@
             Experiences
           </a>
           <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
-            <li></li>
+            <li><a class="dropdown-item" href="/experiences">All</a></li>
+            <hr>
             {%- for experience in collections.experience -%}
             <li><a class="dropdown-item" href="{{ experience.url }}">{{ experience.data.title }}</a></li>
             {%- endfor -%}
