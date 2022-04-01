@@ -37,3 +37,12 @@ https://vimeo.com/642006159
 - Video
 - Audio
   - Podcast
+
+## Experiences
+
+  <ul>
+{%- for experience in collections.experiences -%}
+  <li>[{{ page.data.title }}]({{ page.url}})</li>
+{%- endfor -%}
+</ul>
+
