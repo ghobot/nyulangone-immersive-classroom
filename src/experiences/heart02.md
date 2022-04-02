@@ -32,9 +32,11 @@ As users enter the experience in VR they find themselves standing within the rig
 
 ## Outside Assets 
 An undetailed 3D model of a human heart created by Anna Sieban was downloaded from E-Learning UMCG’s sketchfab page. The downloaded model was imported into Adobe Medium, a virtual reality digital model sculpting program. There, Kristen Ramirez added more detailed topology, accentuated anatomical features, and added realistic coloring to the model. 
-[https://skfb.ly/6SGG7]
 
-The University of Minnesota hosts the Atlas of Human Cardiac Anatomy of downloadable video files from within functioning hearts. Videos of cusp functioning were added to the 3D heart in Spoke, inserted as a plane scaled to match the size and location in the 3D object. 
-[http://www.vhlab.umn.edu/atlas/index.shtml]
+<div class="sketchfab-embed-wrapper"> <iframe title="Cardiac Conduction System" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f314c85abb6a481592ffa5dd973ca0c0/embed"  width="80%" height="500px"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/cardiac-conduction-system-f314c85abb6a481592ffa5dd973ca0c0?utm_medium=embed&utm_campaign=share-popup&utm_content=f314c85abb6a481592ffa5dd973ca0c0" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Cardiac Conduction System </a> by <a href="https://sketchfab.com/eLearningUMCG?utm_medium=embed&utm_campaign=share-popup&utm_content=f314c85abb6a481592ffa5dd973ca0c0" target="_blank" style="font-weight: bold; color: #1CAAD9;"> E-learning UMCG </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f314c85abb6a481592ffa5dd973ca0c0" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+
+
+The University of Minnesota hosts the Atlas of Human Cardiac Anatomy of [downloadable video files](http://www.vhlab.umn.edu/atlas/index.shtml) from within functioning hearts. Videos of cusp functioning were added to the 3D heart in Spoke, inserted as a plane scaled to match the size and location in the 3D object. 
+
 
 Whatever you want to say about adding audio prompts

@@ -16,7 +16,8 @@ User adoption and success is tied to utilizing [Human-centered design principles
 
 ## Model Sculpting
 First, Kristen Ramirez uses Adobe Medium in a virtual reality headset to sculpt the rooms and other assets for the Hubs experience. At times, reference models were imported and modified within Medium while other rooms and assets were built from scratch. 
-[Medium video]
+
+https://vimeo.com/695216682
 
 <hr>
 
@@ -45,6 +46,7 @@ https://youtu.be/DUECN5fEN-o
 
 ## Asset and Media Creation
 
+Image, audio and video files can be added to scenes via Spoke where they can be triggered to play by user action and location. In order to make the scene run well on the web on multiple devices, asset size and resolution  is critical. Take note of Video Bit Rate, image dimensions, file size to optimize your scene frame rate and draw calls. Decimating large meshes for smaller mesh counts, and baking light information into textures can also dramatically improve performance. 
 
 <hr>
 
