@@ -17,10 +17,8 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 {%- for profile in collections.profile -%}
 <div class="card mb-3" style="max-width: 800px">
   <div class="row">
-    <div class="col-md-4">
-      <img src="{{ profile.data.thumbnail }}" width="400" class="img-fluid rounded-start" alt="{{ profile.data.name }}">
-    </div>
-    <div class="col-md-8">
+    <div class="col-md-10">
+      <img src="{{ profile.data.thumbnail }}" width="400" class="col-md-6 float-md-end mb-3 ms-md-3" alt="{{ profile.data.name }}">    
       <div class="card-body">
         <h4 class="card-title"> {{ profile.data.name }}, {{ profile.data.title }} </h4>
         <p class="card-text"><small class="text-muted"></small> {{ profile.data.affiliation }} </p>

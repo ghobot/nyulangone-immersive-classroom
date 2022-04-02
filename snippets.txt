@@ -18,3 +18,8 @@
             </div>      
           </div>
         </div>
+        
+        
+        col-md-6 float-md-end mb-3 ms-md-3
+        
+        img-fluid rounded-start
