@@ -5,7 +5,7 @@ date_deployed: "2021-09-01"
 tags: experience
 slug: ptpfossa
 hero_video: "https://vimeo.com/642006159"
-thumbnail: "https://place-hold.it/200x200/#555/white"
+thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs4.png?v=1648918733425"
 ---
 
 {{ hero_video }}

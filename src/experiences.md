@@ -1,14 +1,11 @@
 ---
 layout: layouts/hubs_page.njk
 title: Experiences
-active: experiences 
+active: experiences
 ---
 
    <div class="row mb-2">
-
-{%- for experience in collections.experience -%}
-
-  
+{%- for experience in collections.experience -%}  
         <div class="col-md-12">
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">           
@@ -17,10 +14,8 @@ active: experiences
               </h2>
               <p class="card-text mb-auto"> {{ experience.data.short_description }}</p>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block"  alt="Thumbnail [200]"  src="{{ experience.data.thumbnail }}" data-holder-rendered="true">
+            <img class="card-img-right flex-auto d-none d-md-block" width="200px" alt="experience.data.title"  src="{{ experience.data.thumbnail }}" data-holder-rendered="true">
           </div>
-        </div>
-       
+        </div>       
 {%- endfor -%}
-
-</div> 
+</div>

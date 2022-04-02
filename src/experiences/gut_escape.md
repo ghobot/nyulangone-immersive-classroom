@@ -5,7 +5,7 @@ date_deployed: "2021-05-01"
 tags: experience
 slug: gut_escape
 hero_video: ""
-thumbnail: "https://place-hold.it/200x200/#555/white"
+thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3.png?v=1648918735630"
 ---
 
 {{ hero_video }}
