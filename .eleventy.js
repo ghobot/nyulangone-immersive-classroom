@@ -1,7 +1,7 @@
 const { DateTime } = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
 //add embed multimedia
-//const embedEverything = require("eleventy-plugin-embed-everything");
+const embeds = require("eleventy-plugin-embed-everything");
 
 /**
 * This is the JavaScript code that determines the config for your Eleventy site
@@ -13,7 +13,7 @@ const pluginSEO = require("eleventy-plugin-seo");
 module.exports = function(eleventyConfig) {
  
   
-  //eleventyConfig.addPlugin(embedEverything);
+  
 
   
   eleventyConfig.setTemplateFormats([
@@ -35,6 +35,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy('src/_redirects');
 
 
+  eleventyConfig.addPlugin(embeds);
 
 
   /* From: https://github.com/artstorm/eleventy-plugin-seo
