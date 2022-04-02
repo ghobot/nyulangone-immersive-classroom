@@ -9,6 +9,11 @@ The [Mozilla Hubs platform](https://hubs.mozilla.com/) was chosen for in-house p
 
 <hr>
 
+## User-centered Design and User Testing
+User adoption and success is tied to utilizing [Human-centered design principles](https://www.designkit.org/human-centered-design). Reach out often to educators and students (both different sets of users) to test out design decisions. Hubs makes it possible to quickly create testing scenarios, but a paper prototype of your experience can yield fruitful feedback in less time.
+
+<hr>
+
 ## Model Sculpting
 First, Kristen Ramirez uses Adobe Medium in a virtual reality headset to sculpt the rooms and other assets for the Hubs experience. At times, reference models were imported and modified within Medium while other rooms and assets were built from scratch. 
 [Medium video]
@@ -34,7 +39,7 @@ The model was then imported into Blender, an open-source 3D software toolkit. In
 
 We highly recommend joining the [Mozilla Hubs Discord](https://hubs.mozilla.com/discord)  with an active community and lively conversation about unlocking this platform!  
 
-[spoke video]
+https://youtu.be/DUECN5fEN-o
 
 <hr>
 
@@ -43,10 +48,7 @@ We highly recommend joining the [Mozilla Hubs Discord](https://hubs.mozilla.com/
 
 <hr>
 
-## User Testing
 
-
-<hr>
 
 ## User Orientation
 Three different tutorial rooms have been built out thus far: two for desktop-based experiences and one for VR. Time permitting, these tutorial rooms have been deployed from immediately to up to one week before a given Hubs based educational intervention. Each tutorial is a simplified room that directs students how to navigate the spaces and use commands to interact with the digital assets. Each was curated to the types of interactions and prompts present in the corresponding educational room and encouraged exploration of the space to highlight the immersive capabilities of the platform. 
@@ -73,6 +75,7 @@ https://vimeo.com/641014605
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
 - [Google Drawing](https://docs.google.com/drawings)
 - [TinyPNG](https://tinypng.com/)
+- [Ideo Human-centered Design Toolkit](https://www.designkit.org/human-centered-design)
 
 
 
