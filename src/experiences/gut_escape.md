@@ -8,6 +8,10 @@ hero_video: ""
 thumbnail: "https://place-hold.it/200x200/#555/white"
 ---
 
+{{ hero_video }}
+
+<hr>
+
 ## Objectives
 
 ### Learning
