@@ -16,7 +16,7 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 </h2>
 
 {%- for profile in collections.profile -%}
-<div class="card mb-3" style="max-width: 800px">
+<div class="card mb-4">
   <div class="row">
     <div class="col-md-12">
       <img src="{{ profile.data.thumbnail }}" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" alt="{{ profile.data.name }}">    

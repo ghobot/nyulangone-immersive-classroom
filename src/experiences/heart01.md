@@ -1,7 +1,7 @@
 ---
 title: Heart - Desktop
 short_description: "Learners and instructors in a multi-user learning event navigate around a massive heart, investigating the outside structures and inner chambers via the desktop."
-date_deployed: "2021-09-01"
+date_deployed: "11-13-2020"
 tags: experience
 slug: heart01
 thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs2.png?v=1648918735705"

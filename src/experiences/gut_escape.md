@@ -1,7 +1,7 @@
 ---
-title: Gut Escape Room
+title: GI Escape Room
 short_description: "Teams of learners on the desktop navigate the gut by solving clinicaly relevent questions / clues to discover ways around the gastro-intestinal track."
-date_deployed: "2021-05-01"
+date_deployed: "5-3-2021"
 tags: experience
 slug: gut_escape
 hero_video: ""

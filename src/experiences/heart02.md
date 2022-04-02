@@ -1,7 +1,7 @@
 ---
 title: Heart - Virtual Reality
 short_description: "Individual learners in virtual reality headsets navigate the internal chambers of the heart."
-date_deployed: "2021-09-01"
+date_deployed: "11-16-2021"
 tags: experience
 slug: heart02
 hero_video: ""
@@ -37,6 +37,3 @@ An undetailed 3D model of a human heart created by Anna Sieban was downloaded fr
 
 
 The University of Minnesota hosts the Atlas of Human Cardiac Anatomy of [downloadable video files](http://www.vhlab.umn.edu/atlas/index.shtml) from within functioning hearts. Videos of cusp functioning were added to the 3D heart in Spoke, inserted as a plane scaled to match the size and location in the 3D object. 
-
-
-Whatever you want to say about adding audio prompts
