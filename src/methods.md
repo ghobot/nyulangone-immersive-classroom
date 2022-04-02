@@ -11,8 +11,11 @@ First, Kristen Ramirez uses Adobe Medium in a virtual reality headset to sculpt 
 [Medium video]
 
 ## Model Optimization
+
+https://youtu.be/afB8eQO_rEI
+
 The model was then imported into Blender, an open-source 3D software toolkit. In Blender, the model can be optimized for the Hubs platform and components like physics-based lighting, rendering to the texture, and animations can be added. 
-[blender video]
+
 
 ## Scene Creation 
 The model is then exported as a glTF Binary file (.GLB) to be imported into Hubs and its associated 3D scene editor Spoke. Spoke allows for asset management, discovery, and placement in the environment. The editing of the model and scene in Blender and Spoke was executed by Greg Dorsainville. Once the scene is set, the content can be uploaded to Hubs to share. 
