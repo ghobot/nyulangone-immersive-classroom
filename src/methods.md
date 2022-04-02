@@ -61,10 +61,10 @@ Three different tutorial rooms have been built out thus far: two for desktop-bas
 - [Blender](https://www.blender.org/)
 - [Mozilla Hubs](https://hubs.mozilla.com/)
 - [Spoke](https://hubs.mozilla.com/spoke)
-- [Sketchfab
-- Adobe Creative Cloud
-- Google Drawing
-- TinyPNG
+- [Sketchfab](https://sketchfab.com)
+- [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
+- [Google Drawing](https://docs.google.com/drawings)
+- [TinyPNG](https://tinypng.com/)
 
 
 
