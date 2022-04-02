@@ -22,7 +22,7 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
       <img src="{{ profile.data.thumbnail }}" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" alt="{{ profile.data.name }}">    
       <div class="card-body">
         <h4 class="card-title"> {{ profile.data.name }}, {{ profile.data.title }} </h4>
-        <p class="card-text"><small class="text-muted"></small> {{ profile.data.affiliation }} </p>
+        <p class="card-text"><small class="text-muted"> {{ profile.data.affiliation }} </small> </p>
         <p class="card-text">{{ profile.templateContent }}</p>   
         <p><a type="button" class="btn btn-primary" href="mailto:{{ profile.data.contact }}">Contact</a></p> 
       </div>
