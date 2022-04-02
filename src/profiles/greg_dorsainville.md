@@ -1,7 +1,7 @@
 ---
 name: Greg Dorsainville
 title: "MPS"
-affiliation: "NYU Langone Health Grossman School of Medicine" 
+affiliation: "NYU Langone Health Grossman School of Medicine"
 role: ""
 projects: ""
 contact: "greg.dorsainville@nyulangone.org"

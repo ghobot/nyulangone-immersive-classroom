@@ -10,7 +10,9 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 
 <hr>
 
-## The Team
+<h2>
+  The Team
+</h2>
 
 {%- for profile in collections.profile -%}
 <div class="card mb-3" style="max-width: 800px">
@@ -30,20 +32,22 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 </div>
 {%- endfor -%} 
 
-## Additional Collaborators
+<h2>
+  Additional Collaborators
+</h2>
 
-#### Victoria Harnik, PhD
+##### Victoria Harnik, PhD
 
 - Assistant Dean for Curriculum
 - Associate Professor of Cell Biology (Anatomy)
 
-#### Michael Poles, MD, PhD
+##### Michael Poles, MD, PhD
 
 - Assistant Dean of Medical Education for the Pre-clinical Sciences
 - Associate Professor of Medicine, Microbiology and Pathology (GI)
 - GI Section Chief, Manhattan VA Hospital
 
-#### So-Young Oh, MA, MS
+##### So-Young Oh, MA, MS
 
 - Assistant Director, Program for Digital Learning
 - Institute for Innovations in Medical Education
@@ -53,19 +57,19 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 - Assistant Professor of Radiology
 - Content Director (Radiology)
 
-#### Jillian Lieber, MA
+##### Jillian Lieber, MA
 
 - Instructional Designer
 - Institute for Innovations in Medical Education
 
-#### Andrew Clayburn
+##### Andrew Clayburn
 
 - Medical Student , NYU Grossman School of Medicine
 
-#### Adam Skolnick, MD
+##### Adam Skolnick, MD
 
 - Associate Professor of Medicine (Cardiology)
 
-#### Brian Shearer, PhD
+##### Brian Shearer, PhD
 
 - Assistant Professor of Cell Biology (Anatomy)
