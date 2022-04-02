@@ -8,19 +8,20 @@ hero_video: ""
 thumbnail: "https://place-hold.it/200x200/#555/white"
 ---
 
-
 ## Objectives
 
-### Learning:
-Synthesize gross anatomy and GI clinical content
-Display the spatial relationships between the gut tube and associated vasculature
-Display the biliary system
-Demonstrate clinical procedures in the foregut
-Review the histology and radiology of the foregut
+### Learning
 
-### User Behavior:
-Gamify learning with questions and clue-based prompts to navigate the experience
-Team-based 
+- Synthesize gross anatomy and GI clinical content
+- Display the spatial relationships between the gut tube and associated vasculature
+- Display the biliary system
+- Demonstrate clinical procedures in the foregut
+- Review the histology and radiology of the foregut
+
+### User Behavior
+
+- Gamify learning with questions and clue-based prompts to navigate the experience
+- Team-based 
 
 ## Experience
 

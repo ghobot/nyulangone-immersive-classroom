@@ -8,16 +8,15 @@ thumbnail: "https://place-hold.it/200x200/#555/white"
 hero_video: ""
 ---
 
-
 ## Objectives
 
-### Learning:
+### Learning
 - Demonstrate the flow of blood through the heart
 - Display the key structures within each chamber and their spatial relationships to each other
 - Discuss the relationship between the heart and the lungs
 - Review the distribution of the coronary arteries and surface anatomy of the heart
 
-### User behavior: 
+### User behavior
 - Gallery-style passive observation
 - Synchronous experience among students and faculty
 

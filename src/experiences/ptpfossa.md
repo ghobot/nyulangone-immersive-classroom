@@ -10,14 +10,17 @@ thumbnail: "https://place-hold.it/200x200/#555/white"
 
 ## Objectives
 
-### Learning:
-Review the location of the pterygopalatine fossa and the other regions of the cranium with which it communicates
-Demonstrate the spatial relationships of the osteological features that compose the pterygopalatine fossa
-Demonstrate the neurovasculature of the pterygopalatine fossa: origins and key branches
-User Behavior: 
-Individual exploration of the space immersed in VR during a scheduled lab station time
-Faculty physically present to troubleshoot and answer content questions
-Link to access the space on desktop, or VR if the students had their own devices, provided for personal use
+### Learning
+
+- Review the location of the pterygopalatine fossa and the other regions of the cranium with which it communicates
+- Demonstrate the spatial relationships of the osteological features that compose the pterygopalatine fossa
+- Demonstrate the neurovasculature of the pterygopalatine fossa: origins and key branches
+
+### User Behavior
+
+- Individual exploration of the space immersed in VR during a scheduled lab station time
+- Faculty physically present to troubleshoot and answer content questions
+- Link to access the space on desktop, or VR if the students had their own devices, provided for personal use
 
 ### Experience
 
