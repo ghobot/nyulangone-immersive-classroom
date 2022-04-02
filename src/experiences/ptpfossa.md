@@ -4,7 +4,7 @@ short_description: "Individual learners in virtual reality headsets navigate the
 date_deployed: "2021-09-01"
 tags: experience
 slug: ptpfossa
-hero_video: "https://www.youtube.com/watch?v=7QkcVZEVhVM"
+hero_video: "https://vimeo.com/642006159"
 thumbnail: "https://place-hold.it/200x200/#555/white"
 ---
 
@@ -27,6 +27,8 @@ thumbnail: "https://place-hold.it/200x200/#555/white"
 - Link to access the space on desktop, or VR if the students had their own devices, provided for personal use
 
 ### Experience
+
+https://vimeo.com/641003684/50d7c268f7
 
 As users enter the experience in VR they find themselves standing within a stylized pterygopalatine fossa. When looking down in any room they could see the directions of medial, lateral, anterior, and posterior labeled for reference and orientation. A reference skull users can grab and manipulate using their hand controllers demonstrated the location of the pterygopalatine fossa. Audio and text prompts directed students to progress through the experience where the room state changed to label the osteological features, display the arterial system, the cranial nerves, the autonomic nerves, and finally a summary of all the neurovasculature within the pterygopalatine fossa. 
 
