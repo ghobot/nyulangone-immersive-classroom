@@ -2,6 +2,8 @@ const { DateTime } = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
 //add embed multimedia
 const embeds = require("eleventy-plugin-embed-everything");
+const glob = require("glob-promise");
+
 
 /**
 * This is the JavaScript code that determines the config for your Eleventy site
@@ -12,10 +14,6 @@ const embeds = require("eleventy-plugin-embed-everything");
 
 module.exports = function(eleventyConfig) {
  
-  
-  
-
-  
   eleventyConfig.setTemplateFormats([
     // Templates:
     "html",
@@ -34,10 +32,28 @@ module.exports = function(eleventyConfig) {
   
   eleventyConfig.addPassthroughCopy('src/_redirects');
 
-
   eleventyConfig.addPlugin(embeds);
 
+  //grab images for carousel
+  eleventyConfig.addCollection('images', async collectionApi => {
 
+		let files = await glob('./img/*.jpeg');
+		//Now filter to non thumb-
+		let images = files.filter(f => {
+			return f.indexOf('./img/thumb-') !== 0;
+		});
+
+		let collection = images.map(i => {
+			return {
+				path: i,
+				thumbpath: i.replace('./img/', './img/thumb-')
+			}
+		});
+
+		return collection;
+    
+    });
+  
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
   Adds SEO settings to the top of all pages
