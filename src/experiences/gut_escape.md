@@ -4,7 +4,7 @@ short_description: "Teams of learners on the desktop navigate the gut by solving
 date_deployed: "5-3-2021"
 tags: experience
 slug: gut_escape
-hero_video: ""
+hero_video: "https://vimeo.com/695472713"
 thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3.png?v=1648918735630"
 ---
 
