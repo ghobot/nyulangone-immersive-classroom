@@ -4,7 +4,7 @@ short_description: "Individual learners in virtual reality headsets navigate the
 date_deployed: "11-16-2021"
 tags: experience
 slug: heart02
-hero_video: ""
+hero_video: "https://vimeo.com/695491480"
 thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs1.png?v=1648918733373"
 ---
 
