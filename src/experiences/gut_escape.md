@@ -1,6 +1,6 @@
 ---
 title: GI Escape Room
-short_description: "Teams of learners on the desktop navigate the gut by solving clinicaly relevent questions / clues to discover ways around the gastro-intestinal track."
+short_description: "Teams of learners on the desktop navigate the gut by solving clinicaly relevent questions / clues to discover ways around the gastro-intestinal tract."
 date_deployed: "5-3-2021"
 tags: experience
 slug: gut_escape
@@ -10,7 +10,7 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3
 
 {{ hero_video }}
 
-<hr>
+<hr class="py-3">
 
 ## Objectives
 
