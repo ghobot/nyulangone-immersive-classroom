@@ -2,7 +2,6 @@ const { DateTime } = require("luxon");
 const pluginSEO = require("eleventy-plugin-seo");
 //add embed multimedia
 const embeds = require("eleventy-plugin-embed-everything");
-const glob = require("glob-promise");
 
 
 /**
@@ -34,25 +33,6 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPlugin(embeds);
 
-  //grab images for carousel
-  eleventyConfig.addCollection('images', async collectionApi => {
-
-		let files = await glob('./img/*.jpeg');
-		//Now filter to non thumb-
-		let images = files.filter(f => {
-			return f.indexOf('./img/thumb-') !== 0;
-		});
-
-		let collection = images.map(i => {
-			return {
-				path: i,
-				thumbpath: i.replace('./img/', './img/thumb-')
-			}
-		});
-
-		return collection;
-    
-    });
   
   /* From: https://github.com/artstorm/eleventy-plugin-seo
   
