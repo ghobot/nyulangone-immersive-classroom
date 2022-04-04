@@ -10,9 +10,9 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs4
 
 {{ hero_video }}
 
-<hr>
+{{ hero_video }}
 
-## Objectives
+<hr class="my-3">
 
 ### Learning
 

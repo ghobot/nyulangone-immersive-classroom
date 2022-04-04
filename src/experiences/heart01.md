@@ -10,7 +10,7 @@ hero_video: "https://vimeo.com/695473115"
 
 {{ hero_video }}
 
-<hr>
+<hr class="my-3">
 
 ## Objectives
 

@@ -24,7 +24,7 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
         <h4 class="card-title"> {{ profile.data.name }}, {{ profile.data.title }} </h4>
         <p class="card-text"><small class="text-muted"> {{ profile.data.affiliation }} </small> </p>
         <p class="card-text">{{ profile.templateContent }}</p>   
-        <p><a type="button" class="btn btn-primary" href="mailto:{{ profile.data.contact }}">Contact</a></p> 
+        <p><a type="button" class="btn btn-primary" href="mailto:{{ profile.data.contact }}">Contact</a> <span>{{ profile.data.contact }}</span></p> 
       </div>
     </div>
   </div>
