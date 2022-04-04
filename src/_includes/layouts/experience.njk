@@ -4,8 +4,9 @@ layout: layouts/hubs_page.njk
 ---
 
 {# This is the template for individual blog posts–it builds the front matter properties into the page #}
-  <p class="text-muted">Deployed: {{ date_deployed }} </p>  
+
   <div>
+{{ experience.data.hero_video }}
     
     {# Content from the body of the post markdown appears here #}
     {{ content | safe }}        

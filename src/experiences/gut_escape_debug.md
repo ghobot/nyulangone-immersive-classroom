@@ -13,7 +13,7 @@ layout: "layouts/experience_debug.njk"
   
 {% include "hubs_experience_spyscroll.html" %}
 
-<div class="scrollTarget col-9" tabindex="0">
+<div class="scrollTarget col-9">
   
 <div id="hero_video">
 
