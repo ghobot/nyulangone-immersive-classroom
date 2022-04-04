@@ -10,7 +10,7 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3
 
 {{ hero_video }}
 
-<hr class="py-3">
+<hr class="my-3">
 
 ## Objectives
 
