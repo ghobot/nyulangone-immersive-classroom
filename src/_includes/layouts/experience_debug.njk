@@ -1,0 +1,29 @@
+---
+layout: layouts/hubs_page.njk
+
+---
+
+{# This is the template for individual blog posts–it builds the front matter properties into the page #}
+  <p class="text-muted">Deployed: {{ date_deployed }} </p>  
+  <div>
+    {# The post front matter includes the title property #}
+    {# ADD P ELEMENT FROM TODO ON THE NEXT LINE #}
+    
+    {# Content from the body of the post markdown appears here #}
+    {{ content | safe }}        
+    <div class="controls">
+    {# The previous and next post data is added in .eleventy.js #}
+    {% if prevExp.url %}
+      <p>
+        <strong>Previous experience</strong>: 
+        <a class="previous" href="{{ prevExp.url }}">{{ prevExp.data.title }}</a>
+      </p>
+    {% endif %}
+    {% if nextExp.url %}
+      <p>
+        <strong>Next experience</strong>: 
+        <a class="next" href="{{ nextExp.url }}">{{ nextExp.data.title }}</a>
+      </p>
+    {% endif %}
+    </div>
+  </div>
