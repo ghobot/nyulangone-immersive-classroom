@@ -3,13 +3,13 @@ layout: layouts/hubs_about_page.njk
 title: About
 ---
 
-Mozilla Hubs is a web-based 3D virtual environment that allows for the creation of customizable 3D virtual spaces accessible on mobile, desktop, and XR/VR devices via a URL. We leveraged this platform to create immersive educational experiences in anatomy for students at NYU Grossman School of Medicine.
+[Mozilla Hubs](https://hubs.mozilla.com) is a web-based 3D virtual environment that allows for the creation of customizable 3D virtual spaces accessible on mobile, desktop, and XR/VR devices via a URL. We leveraged this platform to create immersive educational experiences in anatomy for students at [NYU Grossman School of Medicine](https://med.nyu.edu/).
 
-The digital space can host and display assets such as 3D models users can interact with, video, and images. Key structures were labeled and these additional assets contributed to the student interaction with and immersion in the virtual spaces. Internal links and instructions to move within the space provided sequence and organization to the content presented. Users choose avatars to represent themselves in the digital space and are able to navigate within it using their keyboard and mouse reminiscent of other PC based game environments or within an Oculus Virtual Reality headset using the hand controllers. When possible, faculty-guided training sessions in the medium of deployment were organized prior to the educational intervention to reduce user error. When multiple users are present in a given Hubs room, they can communicate by voice and text, and use a pen as a laser pointer.
+The digital space can host and display assets such as 3D models users can interact with, video, and images. Key structures were labeled and these additional assets contributed to the student interaction with and immersion in the virtual spaces. Internal links and instructions to move within the space provided sequence and organization to the content presented. Users choose avatars to represent themselves in the digital space and are able to navigate within it using their keyboard and mouse reminiscent of other PC based game environments or within an Oculus/Meta Virtual Reality headset using the hand controllers. When possible, faculty-guided training sessions in the medium of deployment were organized prior to the educational intervention to reduce user error. When multiple users are present in a given Hubs room, they can communicate by voice and text, and use a pen as a laser pointer.
 
-These projects are the result of a collaboration with Greg Dorsainville, a creative technologist, and Kristen Ramirez, anatomy faculty at NYU Grossman School of Medicine in conjunction with other anatomists, clinicians, and instructional designers. This page will chronicle the development, content, and deployment of our immersive experiences utilizing 3D modeling, animation, and staging programs and incorporating additional digital anatomy assets.
+These projects are the result of a collaboration with Greg Dorsainville, a creative technologist/manager of Immersive Computing, and Kristen Ramirez, anatomy faculty at NYU Grossman School of Medicine in conjunction with other anatomists, clinicians, and instructional designers. This site will chronicle the development, content, and deployment of our immersive experiences utilizing 3D modeling, animation, and staging programs and incorporating additional digital anatomy assets.
 
-<hr>
+<hr class="my-5">
 
 <h2>
   The Team

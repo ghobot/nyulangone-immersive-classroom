@@ -8,20 +8,19 @@ The [Mozilla Hubs platform](https://hubs.mozilla.com/) was chosen for in-house p
 
 https://youtu.be/5QnOsyyebEQ
 
-
-<hr>
+<hr class="my-5">
 
 ## User-centered Design and User Testing
 User adoption and success is tied to utilizing [Human-centered design principles](https://www.designkit.org/human-centered-design). Reach out often to educators and students (both different sets of users) to test out design decisions. Hubs makes it possible to quickly create testing scenarios, but a paper prototype of your experience can yield fruitful feedback in less time.
 
-<hr>
+<hr class="my-5">
 
 ## Model Sculpting
 First, Kristen Ramirez uses Adobe Medium in a virtual reality headset to sculpt the rooms and other assets for the Hubs experience. At times, reference models were imported and modified within Medium while other rooms and assets were built from scratch. 
 
 https://vimeo.com/695216682
 
-<hr>
+<hr class="my-5">
 
 ## Model and Scene Optimization
 
@@ -35,7 +34,7 @@ https://youtu.be/afB8eQO_rEI
 
 https://youtu.be/OX88H3rDWtA
 
-<hr>
+<hr class="my-5">
 
 ## Scene Creation 
 The model was then imported into Blender, an open-source 3D software toolkit. In Blender, the model can be optimized for the Hubs platform and components like physics-based lighting, texture baking, hubs specific add-ons and animations can be added and then exported as a .glb 3D file that is supported in Hubs. Baked texture atlases can reduce scene files sizes and reduce the need for real-time lighting, making the experience run smoothly on most devices.
@@ -44,15 +43,13 @@ We highly recommend joining the [Mozilla Hubs Discord](https://hubs.mozilla.com/
 
 https://youtu.be/DUECN5fEN-o
 
-<hr>
+<hr class="my-5">
 
 ## Asset and Media Creation
 
 Image, audio and video files can be added to scenes via Spoke where they can be triggered to play by user action and location. In order to make the scene run well on the web on multiple devices, asset size and resolution  is critical. Take note of Video Bit Rate, image dimensions, file size to optimize your scene frame rate and draw calls. Decimating large meshes for smaller mesh counts, and baking light information into textures can also dramatically improve performance. 
 
-<hr>
-
-
+<hr class="my-5">
 
 ## User Orientation
 Three different tutorial rooms have been built out thus far: two for desktop-based experiences and one for VR. Time permitting, these tutorial rooms have been deployed from immediately to up to one week before a given Hubs based educational intervention. Each tutorial is a simplified room that directs students how to navigate the spaces and use commands to interact with the digital assets. Each was curated to the types of interactions and prompts present in the corresponding educational room and encouraged exploration of the space to highlight the immersive capabilities of the platform. 
@@ -67,8 +64,7 @@ Three different tutorial rooms have been built out thus far: two for desktop-bas
 
 https://vimeo.com/641014605
 
-
-<hr>
+<hr class="my-5">
 
 ## Resources:
 - [Adobe Medium](https://www.adobe.com/products/medium.html)
