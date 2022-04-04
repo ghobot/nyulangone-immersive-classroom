@@ -12,6 +12,8 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs4
 
 <hr class="my-3">
 
+## Objectives
+
 ### Learning
 
 - Review the location of the pterygopalatine fossa and the other regions of the cranium with which it communicates
@@ -24,11 +26,15 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs4
 - Faculty physically present to troubleshoot and answer content questions
 - Link to access the space on desktop, or VR if the students had their own devices, provided for personal use
 
+<hr class="my-3">
+
 ### Experience
 
 https://vimeo.com/641003684/50d7c268f7
 
 As users enter the experience in VR they find themselves standing within a stylized pterygopalatine fossa. When looking down in any room they could see the directions of medial, lateral, anterior, and posterior labeled for reference and orientation. A reference skull users can grab and manipulate using their hand controllers demonstrated the location of the pterygopalatine fossa. Audio and text prompts directed students to progress through the experience where the room state changed to label the osteological features, display the arterial system, the cranial nerves, the autonomic nerves, and finally a summary of all the neurovasculature within the pterygopalatine fossa. 
+
+<hr class="my-3">
 
 ## Outside Assets 
 The reference skull was modified in Medium by Kristen Ramirez after being downloaded from the WitmerLab Sketchfab page. This skull specimen (OUVC 10503) was CT scanned at OhioHealth O’Bleness Hospital in Athens, OH, under funding from NSF. [It was previously published in 2008.](http://bit.ly/2LLot8M) Ryan Ridgely in WitmerLab did the 3D modeling using Amira and Maya.
