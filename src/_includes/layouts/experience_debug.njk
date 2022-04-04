@@ -3,19 +3,12 @@ layout: layouts/hubs_page.njk
 
 ---
 
-<style>
-  .scrollTarget {
-    
-    position: relative; 
-    overflow-y: scroll;
-    height: 500px;
-  }
-</style>
-
-<p class="text-muted">Deployed: {{ date_deployed }} </p>  
   <div>
-    {# The post front matter includes the title property #}
-    {# ADD P ELEMENT FROM TODO ON THE NEXT LINE #}
+    
+      {{ hero_video }}  
+
+<hr class="my-3">
+      <p class="text-muted">Deployed: {{ date_deployed }} </p>  
     
     {# Content from the body of the post markdown appears here #}
     {{ content | safe }}        

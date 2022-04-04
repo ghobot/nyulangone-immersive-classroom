@@ -9,10 +9,21 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3
 layout: "layouts/experience_debug.njk"
 ---
 
+<div class="row">
   
 <!-- {% include "hubs_experience_spyscroll.html" %}
  -->
+<div class="scrollTarget col-9">
+  
+<div id="hero_video">
 
+  {{ hero_video }}  
+
+</div>
+
+<hr class="my-3">
+
+<div data-bs-spy="scroll" data-bs-target="#experience-list" data-bs-offset="0" class="scrollspy-example" tabindex="0">
 
 <h2 id="objectives">
   Objectives
@@ -47,3 +58,7 @@ The escape room was synced with a Qualtrics survey that provided instructions an
 Radiological content is created in-house by taking anonymized DICOM data and converting the images into a JPEG stack, annotating as needed. The images are then uploaded into Radiopaedia, a web-based scrollable image stack viewer and embedded into the Qualtrics form. 
 
 A histology slide was provided by the consulting Gastroenterologist. 
+
+</div>
+</div>
+</div>
