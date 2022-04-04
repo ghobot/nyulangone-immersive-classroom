@@ -9,9 +9,11 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3
 layout: "layouts/experience_debug.njk"
 ---
 
+<div class="row">
+  
 {% include "hubs_experience_spyscroll.html" %}
 
-<div class="scroll-target">
+<div class="scrollTarget col-9" tabindex="0">
   
 <div id="hero_video">
 
@@ -21,7 +23,7 @@ layout: "layouts/experience_debug.njk"
 
 <hr class="my-3">
 
-<div data-bs-spy="scroll" data-bs-target="#list-example" data-bs-offset="0" class="scrollspy-example" tabindex="0">
+<div data-bs-spy="scroll" data-bs-target="#experience-list" data-bs-offset="0" class="scrollspy-example" tabindex="0">
 
 <h2 id="objectives">
   Objectives
@@ -59,4 +61,4 @@ A histology slide was provided by the consulting Gastroenterologist.
 
 </div>
 </div>
-
+</div>
