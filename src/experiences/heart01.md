@@ -10,8 +10,6 @@ hero_video: "https://vimeo.com/695473115"
 
 {{ hero_video }}
 
-<hr class="my-3">
-
 ## Objectives
 
 ### Learning
@@ -24,12 +22,8 @@ hero_video: "https://vimeo.com/695473115"
 - Gallery-style passive observation
 - Synchronous experience among students and faculty
 
-<hr class="my-3">
-
 ## Experience
 The experience begins with the user at a platform external to the heart. An informational panel describes the experience, reviews how to navigate within the space, and instructions to proceed. Users advance through each chamber of the heart, and intermittently other external platforms following the flow of blood. Informational panels placed at the platforms discuss the functionality of the semilunar valve, relationship between the heart and lungs, and the distribution of the coronary arteries. When the students were immersed in the chambers of the heart, key structures were labeled and students were prompted to look around and appreciate their spatial relationships. 
-
-<hr class="my-3">
 
 ## Outside Assets
 An undetailed 3D model of a human heart created by Anna Sieban was downloaded from E-Learning UMCG’s sketchfab page. The downloaded model was imported into Adobe Medium, a virtual reality digital model sculpting program. There, more detailed topology, accentuated anatomical features, and realistic coloring was added to the model. 

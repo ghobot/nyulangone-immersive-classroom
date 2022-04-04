@@ -1,10 +1,5 @@
 .experience h2 {
-  color: inherit;
-  background-color: currentColor;
-  border: 0;
-  opacity: 0.25;
-      margin: 3px 0px; 
-    border-top: 1px solid black;
+    margin: 20px 0px 0px 0px;
+    border-top: 1px solid rgba(0,0,0,0.25);
+    padding: 20px 0px 0px 0px;
 }
-
-
