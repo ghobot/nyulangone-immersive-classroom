@@ -9,11 +9,6 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3
 layout: "layouts/experience_debug.njk"
 ---
 
-  
-<!-- {% include "hubs_experience_spyscroll.html" %}
- -->
-
-
 <h2 id="objectives">
   Objectives
 </h2>

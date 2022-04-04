@@ -29,8 +29,6 @@ module.exports = function(eleventyConfig) {
   ]);
   eleventyConfig.addPassthroughCopy("public");
   
-  eleventyConfig.addPassthroughCopy('src/_redirects');
-
   eleventyConfig.addPlugin(embeds);
 
   

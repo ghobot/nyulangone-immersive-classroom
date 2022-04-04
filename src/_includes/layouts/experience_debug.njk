@@ -4,11 +4,11 @@ layout: layouts/hubs_page.njk
 ---
 
   <div>
-    
+          <p class="text-muted">Deployed: {{ date_deployed }} </p>  
+
       {{ hero_video }}  
 
 <hr class="my-3">
-      <p class="text-muted">Deployed: {{ date_deployed }} </p>  
     
     {# Content from the body of the post markdown appears here #}
     {{ content | safe }}        
