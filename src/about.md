@@ -72,3 +72,6 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 ##### Brian Shearer, PhD
 
 - Assistant Professor of Cell Biology (Anatomy)
+
+##### Lucas Wozniak
+- Student Researcher, Masters Candidate NYU Tisch
