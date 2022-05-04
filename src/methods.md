@@ -70,6 +70,7 @@ https://vimeo.com/641014605
 - [Adobe Medium](https://www.adobe.com/products/medium.html)
 - [Blender](https://www.blender.org/)
 - [Mozilla Hubs](https://hubs.mozilla.com/)
+- [Mozilla Hubs Labs](https://hubs.mozilla.com/labs/)
 - [Spoke](https://hubs.mozilla.com/spoke)
 - [Sketchfab](https://sketchfab.com)
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
