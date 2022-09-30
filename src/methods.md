@@ -37,7 +37,7 @@ https://youtu.be/OX88H3rDWtA
 <hr class="my-5">
 
 ## Scene Creation 
-The model was then imported into Blender, an open-source 3D software toolkit. In Blender, the model can be optimized for the Hubs platform and components like physics-based lighting, texture baking, hubs specific add-ons and animations can be added and then exported as a .glb 3D file that is supported in Hubs. Baked texture atlases can reduce scene files sizes and reduce the need for real-time lighting, making the experience run smoothly on most devices.
+The blender project is exported as a .glb 3D file that is supported in Hubs. Baked texture atlases and lightmaps can reduce scene files sizes and reduce the need for real-time lighting, making the experience run smoothly on most devices. 
 
 We highly recommend joining the [Mozilla Hubs Discord](https://hubs.mozilla.com/discord)  with an active community and lively conversation about unlocking this platform!  
 
@@ -47,7 +47,7 @@ https://youtu.be/DUECN5fEN-o
 
 ## Asset and Media Creation
 
-Image, audio and video files can be added to scenes via Spoke where they can be triggered to play by user action and location. In order to make the scene run well on the web on multiple devices, asset size and resolution  is critical. Take note of Video Bit Rate, image dimensions, file size to optimize your scene frame rate and draw calls. Decimating large meshes for smaller mesh counts, and baking light information into textures can also dramatically improve performance. 
+Image, audio and video files can be added to scenes via hubs authoring tool Spoke where they can be triggered to play by user action and location. In order to make the scene run well on the web on multiple devices, asset size and resolution is critical. Take note of Video Bit Rate, image dimensions, file size to optimize your scene frame rate and draw calls. Decimating large meshes for smaller mesh counts, and baking light information into textures can also dramatically improve performance. 
 
 <hr class="my-5">
 
