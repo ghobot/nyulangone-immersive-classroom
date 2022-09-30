@@ -37,9 +37,9 @@ https://youtu.be/OX88H3rDWtA
 <hr class="my-5">
 
 ## Scene Creation 
-The blender project is exported as a .glb 3D file that is supported in Hubs. Baked texture atlases and lightmaps can reduce scene files sizes and reduce the need for real-time lighting, making the experience run smoothly on most devices. 
+The blender project is exported as a .glb 3D file that is supported in Hubs. Baked texture atlases and lightmaps can reduce scene files sizes and reduce the need for real-time lighting, making the experience run smoothly on most devices. The .glb model is imported into Hubs authoring tool, spoke, that allows the creation of scene logic, generic 3D assets, and web objects. Publishing a compiled scene and the creation of scene templates are also done in spoke. 
 
-We highly recommend joining the [Mozilla Hubs Discord](https://hubs.mozilla.com/discord)  with an active community and lively conversation about unlocking this platform!  
+The mozilla team is always improving the scene deployment strategy. We highly recommend joining the [Mozilla Hubs Discord](https://hubs.mozilla.com/discord)  with an active community and lively conversation about unlocking this platform!  
 
 https://youtu.be/DUECN5fEN-o
 
