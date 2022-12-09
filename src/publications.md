@@ -12,3 +12,9 @@ title: Publications
 - [Ramirez K and Dorsainville G. 2021. An immersive web-based experience into the heart. The FASEB Journal, 35.](https://faseb.onlinelibrary.wiley.com/doi/abs/10.1096/fasebj.2021.35.S1.04501)
 
 
+#### Presentations and Articles
+
+ - [Bringing Learners into the Immersive Web: How to Begin](https://hubs.mozilla.com/labs/bringing-learners-into-the-immersive-web-how-to-begin/)
+
+https://youtu.be/xS7yiNymCGo
+
