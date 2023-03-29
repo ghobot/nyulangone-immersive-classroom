@@ -15,6 +15,7 @@ title: Publications
 #### Presentations and Articles
 
  - [Bringing Learners into the Immersive Web: How to Begin](https://hubs.mozilla.com/labs/bringing-learners-into-the-immersive-web-how-to-begin/)
+ - [The immersive school bus: Hubs-built journeys into the body for medical education](https://blog.mozilla.org/en/products/hubs-nyu-school-of-medicine/)
 
 https://youtu.be/xS7yiNymCGo
 
