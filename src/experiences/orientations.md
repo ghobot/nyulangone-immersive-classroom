@@ -11,28 +11,40 @@ thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/tutor
 {{ hero_video }}
 
 ## Objectives
+- Acclimate users with the Hubs platform, interface, and interactions 
+- Demonstrate necessary skills to interact with the subsequent learning event 
+- Practice controls for different types of interactions 
+
 
 ### Learning
 
-- Review the location of the pterygopalatine fossa and the other regions of the cranium with which it communicates
+- How to navigate the hubs platform
 
 
-### User Behavior
+## Experiences
 
-- Individual exploration of the space immersed in VR during a scheduled lab station time
-- Faculty physically present to troubleshoot and answer content questions
-- Link to access the space on desktop, or VR if the students had their own devices, provided for personal use
+Our custom-built introductory Hubs spaces were designed to cover the types of interactions necessary for the subsequent learning event. Orientation events have been deployed both immediately and a few days before a learning event for both desktop and VR based sessions. 
 
-## Experience
+### Tron Room 
+-	Desktop 
+-	Deployed immediately before Heart-Desktop, link to heart found at the end of the tutorial 
 
-https://vimeo.com/641003684/50d7c268f7
+### Banksy Escape Hallway 
+-	Desktop 
+-	Deployed immediately before GI Escape Room, link to escape room found at the end of the tutorial 
+-	Emphasis on hidden links and interacting with objects 
 
-As users enter the experience in VR they find themselves standing within a stylized pterygopalatine fossa. When looking down in any room they could see the directions of medial, lateral, anterior, and posterior labeled for reference and orientation. A reference skull users can grab and manipulate using their hand controllers demonstrated the location of the pterygopalatine fossa. Audio and text prompts directed students to progress through the experience where the room state changed to label the osteological features, display the arterial system, the cranial nerves, the autonomic nerves, and finally a summary of all the neurovasculature within the pterygopalatine fossa. 
+### Lakeside Pipes
+-	VR
+-	Deployed a few days before Pterygopalatine Fossa and Heart-VR learning events
+-	Emphasis on looking around in the VR headset and familiarity with controls 
 
-## Outside Assets 
-The reference skull was modified in Medium by Kristen Ramirez after being downloaded from the WitmerLab Sketchfab page. This skull specimen (OUVC 10503) was CT scanned at OhioHealth O’Bleness Hospital in Athens, OH, under funding from NSF. [It was previously published in 2008.](http://bit.ly/2LLot8M) Ryan Ridgely in WitmerLab did the 3D modeling using Amira and Maya.
+### Lakeside Modular 
+-	VR
+-	Deployed a few days before VR learning event 
+-	Emphasis on practicing interactions in VR
+-	Modular design allows for selection of relevant tasks for each learning event
 
 
-<div class="sketchfab-embed-wrapper"> <iframe title="Visible Interactive Human - Exploding skull" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/252887e2e755427c90d9e3d0c6d3025f/embed"width="80%" height="500px"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/visible-interactive-human-exploding-skull-252887e2e755427c90d9e3d0c6d3025f?utm_medium=embed&utm_campaign=share-popup&utm_content=252887e2e755427c90d9e3d0c6d3025f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> Visible Interactive Human - Exploding skull </a> by <a href="https://sketchfab.com/witmerlab?utm_medium=embed&utm_campaign=share-popup&utm_content=252887e2e755427c90d9e3d0c6d3025f" target="_blank" style="font-weight: bold; color: #1CAAD9;"> WitmerLab at Ohio University </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=252887e2e755427c90d9e3d0c6d3025f" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
-Audio recordings and Video files were edited in Adobe Premiere and exported for the web. Image files were designed and composited in google draw. Large image files were compressed using Tinypng.com for project optimization. For further optimization, when working with numerous assets,  image files were collected into one model with an  atlas texture in Blender.  
+
