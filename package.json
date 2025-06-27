@@ -4,7 +4,8 @@
   "description": "The Immersive Classroom Documented",
   "scripts": {
     "start": "npx eleventy --serve",
-    "build": "NODE_ENV=production eleventy"
+    "build": "NODE_ENV=production eleventy",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/your-repo-name/"
   },
   "dependencies": {
     "eleventy-plugin-embed-everything": "^1.14.0",
