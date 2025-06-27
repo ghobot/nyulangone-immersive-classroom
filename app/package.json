@@ -1,0 +1,33 @@
+{
+  "name": "glitch-Immersive-Classroom",
+  "version": "0.1.0",
+  "description": "The Immersive Classroom Documented",
+  "scripts": {
+    "start": "npx eleventy --serve",
+    "build": "NODE_ENV=production eleventy"
+  },
+  "dependencies": {
+    "eleventy-plugin-embed-everything": "^1.14.0",
+    "eleventy-plugin-seo": "0.5.2",
+    "get-youtube-id": "^1.0.1",
+    "luxon": "^2.3.1"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  },
+  "engines": {
+    "node": "12"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/glitch-immersive-classroom"
+  },
+  "glitch": {
+    "projectType": "generated_static"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
