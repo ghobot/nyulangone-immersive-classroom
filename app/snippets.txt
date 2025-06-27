@@ -1,0 +1,25 @@
+ {% if page.url == post.url %} aria-current="page"{% endif %} > {{ post.data.page.date | htmlDateString }} — <a href='{{ post.url }}'>{{ post.data.title }}</a>
+ 
+ 
+         <div class="col-md-12">
+          <div class="card flex-md-row mb-3 box-shadow h-md-250">
+            <div class="card-body d-flex flex-column align-items-start">           
+            <img class="card-img-left flex-auto  d-md-block img-thumbnail  " width="400" alt="{{ profile.data.name }}"  src="{{ profile.data.thumbnail}}" data-holder-rendered="true">
+              <h3 class="mt-0">
+                {{ profile.data.name }}, {{ profile.data.title }}
+              </h3>
+              <p>
+                {{ profile.data.affiliation }}
+              </p>
+              <p class="card-text mb-auto"> {{ profile.templateContent }} </p>
+              <p>
+               <a type="button" class="btn btn-primary" href="mailto:{{ profile.data.contact }}">Contact</a> 
+              </p> 
+            </div>      
+          </div>
+        </div>
+        
+        
+        col-md-6 float-md-end mb-3 ms-md-3
+        
+        img-fluid rounded-start

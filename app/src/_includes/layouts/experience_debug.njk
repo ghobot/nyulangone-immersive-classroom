@@ -1,0 +1,30 @@
+---
+layout: layouts/hubs_page.njk
+
+---
+
+  <div>
+          <p class="text-muted">Deployed: {{ date_deployed }} </p>  
+
+      {{ hero_video }}  
+
+<hr class="my-3">
+    
+    {# Content from the body of the post markdown appears here #}
+    {{ content | safe }}        
+    <div class="controls">
+    {# The previous and next post data is added in .eleventy.js #}
+    {% if prevExp.url %}
+      <p>
+        <strong>Previous experience</strong>: 
+        <a class="previous" href="{{ prevExp.url }}">{{ prevExp.data.title }}</a>
+      </p>
+    {% endif %}
+    {% if nextExp.url %}
+      <p>
+        <strong>Next experience</strong>: 
+        <a class="next" href="{{ nextExp.url }}">{{ nextExp.data.title }}</a>
+      </p>
+    {% endif %}
+    </div>
+  </div>

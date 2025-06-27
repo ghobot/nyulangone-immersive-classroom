@@ -1,0 +1,21 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+
+{# This is the template for the Posts page–it lists the posts in the collection #}
+
+#Project Name
+
+## 
+
+<div class="wrapper home">
+  <div class="content">
+    {{ content | safe }}
+    <ul>
+      {%- for experience in collections.experience -%}
+        <li></li>
+      {%- endfor -%}
+    </ul>
+  </div>
+</div>

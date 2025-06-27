@@ -1,0 +1,7 @@
+{
+  "glitch-help-instructions": "For a custom domain, change the 'url' parameter from 'glitch-default' to your domain _without_ a traling slash, like 'https://www.example.com'",
+  "title": "NYU Langone Immersive Classroom",
+  "description": "NYU Langone Grossman School of Medicine documentation of Immersive Computing technologies in the classroom.",
+  "url": "glitch-default",
+  "image": "https://cdn.glitch.com/992f0b47-0bf3-4116-bcab-ab7e112ddacd%2FNYU-G-SoM_logo-final_Purple_RGB_72ppi.jpg?v=1617997291272"
+}
