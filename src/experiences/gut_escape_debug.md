@@ -5,7 +5,7 @@ date_deployed: "5-3-2021"
 tags: experience
 eleventyExcludeFromCollections: true
 hero_video: "https://vimeo.com/695472713"
-thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3.png?v=1648918735630"
+thumbnail: "https://cdn.glitch.me/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/hubs3.png?v=1648918735630"
 layout: "layouts/experience_debug.njk"
 ---
 

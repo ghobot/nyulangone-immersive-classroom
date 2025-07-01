@@ -6,7 +6,7 @@ role: ""
 projects: ""
 contact: "kristen.ramirez@nyulangone.org"
 tags: profile
-thumbnail: "https://cdn.glitch.global/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/Ramirez%20headshot%20GSOM%20cropped.png?v=1648852815959"
+thumbnail: "https://cdn.glitch.me/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/Ramirez%20headshot%20GSOM%20cropped.png?v=1648852815959"
 ---
 
 
