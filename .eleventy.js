@@ -97,7 +97,8 @@ eleventyConfig.addCollection("experiences", function(collection) {
       input: "src",
       includes: "_includes",
       output: "build"
-    }
+    },
+    markdownTemplateEngine: "njk"
   };
 };
 
