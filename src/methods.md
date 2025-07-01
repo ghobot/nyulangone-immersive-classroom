@@ -4,7 +4,7 @@ title: Methods
 ---
 
 
-The [Mozilla Hubs platform](https://hubs.mozilla.com/) was chosen for in-house produced XR educational activities because of its accessibility and ease of customization and deployment. However, 3D assets needed to first be developed in other programs and imported.
+The [Hubs Foundation Hubs platform](https://hubsfoundation.org//) was chosen for in-house produced XR educational activities because of its accessibility and ease of customization and deployment. However, 3D assets needed to first be developed in other programs and imported.
 
 https://youtu.be/5QnOsyyebEQ
 
@@ -39,7 +39,7 @@ https://youtu.be/OX88H3rDWtA
 ## Scene Creation 
 The blender project is exported as a .glb 3D file that is supported in Hubs. Baked texture atlases and lightmaps can reduce scene files sizes and reduce the need for real-time lighting, making the experience run smoothly on most devices. The .glb model is imported into Hubs authoring tool, spoke, that allows the creation of scene logic, generic 3D assets, and web objects. Publishing a compiled scene and the creation of scene templates are also done in spoke. 
 
-The mozilla team is always improving the scene deployment strategy. We highly recommend joining the [Mozilla Hubs Discord](https://hubs.mozilla.com/discord)  with an active community and lively conversation about unlocking this platform!  
+The mozilla team is always improving the scene deployment strategy. We highly recommend joining the [Hubs Foundation Discord](https://discord.com/invite/hubs-498741086295031808)  with an active community and lively conversation about unlocking this platform!  
 
 https://youtu.be/DUECN5fEN-o
 
@@ -69,8 +69,7 @@ https://vimeo.com/641014605
 ## Resources:
 - [Adobe Medium](https://www.adobe.com/products/medium.html)
 - [Blender](https://www.blender.org/)
-- [Mozilla Hubs](https://hubs.mozilla.com/)
-- [Mozilla Hubs Labs](https://hubs.mozilla.com/labs/)
+- [Hubs Foundation](https://hubsfoundation.org/)
 - [Spoke](https://hubs.mozilla.com/spoke)
 - [Sketchfab](https://sketchfab.com)
 - [Adobe Creative Cloud](https://www.adobe.com/creativecloud.html)
