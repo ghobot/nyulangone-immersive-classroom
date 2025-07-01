@@ -4,7 +4,7 @@ short_description: "We designed rooms to acclimate learners for learning events 
 date_deployed: "9-3-2021"
 tags: experience
 slug: orientation
-hero_video: "https://www.youtube.com/xS7yiNymCGo"
+hero_video: "https://www.youtube.com/watch?v=xS7yiNymCGo"
 thumbnail: "https://cdn.glitch.me/bf2d4b6c-c9a9-46ba-a671-61e2f05114b6/tutorialRoom.png?v=1690400095272"
 ---
 
