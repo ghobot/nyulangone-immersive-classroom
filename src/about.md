@@ -19,7 +19,7 @@ These projects are the result of a collaboration with Greg Dorsainville, a creat
 <div class="card bio mb-4">
   <div class="row">
     <div class="col-md-12">
-      <img src="{{ profile.data.thumbnail }}" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" alt="{{ profile.data.name }}">    
+      <img src="{{ profile.data.thumbnail | url }}" class="col-md-6 float-md-end mb-3 ms-md-3 img-fluid" alt="{{ profile.data.name }}">    
       <div class="card-body">
         <h4 class="card-title"> {{ profile.data.name }}, {{ profile.data.title }} </h4>
         <p class="card-text"><small class="text-muted"> {{ profile.data.affiliation }} </small> </p>

@@ -10,11 +10,11 @@ active: experiences
           <div class="card flex-md-row mb-4 box-shadow h-md-250">
             <div class="card-body d-flex flex-column align-items-start">           
               <h2 class="mt-0">
-                <a class="text-dark" href="{{ experience.url }}">{{ experience.data.title }}</a>
+                <a class="text-dark" href="{{ experience.url | url }}">{{ experience.data.title }}</a>
               </h2>
               <p class="card-text mb-auto"> {{ experience.data.short_description }}</p>
             </div>
-            <img class="card-img-right flex-auto d-none d-md-block" width="200px" alt="experience.data.title"  src="{{ experience.data.thumbnail }}" data-holder-rendered="true">
+            <img class="card-img-right flex-auto d-none d-md-block" width="200px" alt="experience.data.title"  src="{{ experience.data.thumbnail | url }}" data-holder-rendered="true">
           </div>
         </div>       
 {%- endfor -%}

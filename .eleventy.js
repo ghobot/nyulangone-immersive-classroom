@@ -93,6 +93,7 @@ eleventyConfig.addCollection("experiences", function(collection) {
 });  
 
   return {
+    pathPrefix: "/nyulangone-immersive-classroom/",
     dir: {
       input: "src",
       includes: "_includes",

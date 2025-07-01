@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light px-3">
   <div class="container-fluid">
-    <a class="navbar-brand" href="/">Hubs in Medical Education</a>
+    <a class="navbar-brand" href="{{ '/' | url }}">Hubs in Medical Education</a>
     <button
       class="navbar-toggler"
       type="button"
@@ -15,13 +15,13 @@
     <div class="collapse navbar-collapse" id="navbarNav">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link" href="/">Home</a>
+          <a class="nav-link" href="{{ '/' | url }}">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/about">About</a>
+          <a class="nav-link" href="{{ '/about' | url }}">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/methods">Methods</a>
+          <a class="nav-link" href="{{ '/methods' | url }}">Methods</a>
         </li>
         <li class="nav-item dropdown">
           <a
@@ -38,11 +38,11 @@
             class="dropdown-menu dropdown-menu-dark"
             aria-labelledby="navbarDarkDropdownMenuLink"
           >
-            <li><a class="dropdown-item" href="/experiences">All</a></li>
+            <li><a class="dropdown-item" href="{{ '/experiences' | url }}">All</a></li>
             <hr />
             {%- for experience in collections.experience -%}
             <li>
-              <a class="dropdown-item" href="{{ experience.url }}"
+              <a class="dropdown-item" href="{{ experience.url | url }}"
                 >{{ experience.data.title }}</a
               >
             </li>
@@ -50,7 +50,7 @@
           </ul>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="/publications">Publications</a>
+          <a class="nav-link" href="{{ '/publications' | url }}">Publications</a>
         </li>
       </ul>
     </div>
